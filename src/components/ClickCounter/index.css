@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  text-align: center;
+}
+
+.number {
+  color: #c20a72;
+}
+
+.para {
+  color: #6f837b;
+  font-weight: 400;
+}
+
+.btn {
+  color: #ffffff;
+  background-color: #007bff;
+  border-radius: 8px;
+  border-width: 0;
+  height: 35px;
+  width: 80px;
+  font-weight: 600;
+}
